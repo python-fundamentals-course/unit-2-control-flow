@@ -1,0 +1,17 @@
+{
+  "id": "unit-2",
+  "slug": "unit-2-control-flow",
+  "title": "Control Flow",
+  "description": "if/elif/else, for loops, while loops, and the three patterns that cover most real data tasks.",
+  "learning_objectives": [
+    "Write if/elif/else blocks for business decision logic",
+    "Apply for loops to filter, transform, and aggregate data",
+    "Decompose a business problem into control flow before writing code"
+  ],
+  "original_video": "V2 \u2014 Thinking in Control Flow",
+  "curated_videos": [
+    "Corey Schafer: Python Tutorial \u2014 Conditionals and Booleans",
+    "Corey Schafer: Python Tutorial \u2014 Loops and Iterations"
+  ],
+  "codespace_repo": "unit-2-control-flow"
+}
