@@ -1,6 +1,6 @@
 # Unit 2: Control Flow
 
-> **Python Fundamentals** | NTU Academy for Professional and Continuing Education
+> **Python Fundamentals**
 
 if/elif/else, for loops, while loops, and the three patterns that cover most real data tasks.
 
@@ -29,5 +29,4 @@ By the end of this unit you will be able to:
 
 ## Course
 
-Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course —
-NTU Academy for Professional and Continuing Education.
+Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course.
