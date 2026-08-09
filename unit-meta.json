@@ -8,10 +8,57 @@
     "Apply for loops to filter, transform, and aggregate data",
     "Decompose a business problem into control flow before writing code"
   ],
-  "original_video": "V2 \u2014 Thinking in Control Flow",
-  "curated_videos": [
-    "Corey Schafer: Python Tutorial \u2014 Conditionals and Booleans",
-    "Corey Schafer: Python Tutorial \u2014 Loops and Iterations"
+  "codespace_repo": "unit-2-control-flow",
+  "videos": [
+    {
+      "name": "V2 \u2014 Thinking in Control Flow",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209909678",
+      "duration_min": 15
+    },
+    {
+      "name": "The Three Patterns",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1210320423",
+      "duration_min": 5
+    },
+    {
+      "name": "Decomposing_a_Problem",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1210342130",
+      "duration_min": 3
+    },
+    {
+      "name": "Worked Example - Monthly-P&L",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1210343248",
+      "duration_min": 2
+    },
+    {
+      "name": "Reading Tracebacks",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1210344122",
+      "duration_min": 2
+    },
+    {
+      "name": "Carry This Into the Exercises",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1210345155",
+      "duration_min": 2
+    }
   ],
-  "codespace_repo": "unit-2-control-flow"
+  "curated_videos": [
+    {
+      "name": "C1 \u2014 Conditionals & Booleans",
+      "type": "youtube",
+      "url": "https://youtu.be/DZwmZ8Usvnk",
+      "duration_min": 10
+    },
+    {
+      "name": "C2 \u2014 Loops & Iteration",
+      "type": "youtube",
+      "url": "https://youtu.be/6iF8Xb7Z3wQ",
+      "duration_min": 11
+    }
+  ]
 }
